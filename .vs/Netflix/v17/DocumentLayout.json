@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.net app\\estudos\\Netflix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E3DF99-2467-4BAB-9D53-8271890531F9}|Netflix.csproj|c:\\.net app\\estudos\\netflix\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E3DF99-2467-4BAB-9D53-8271890531F9}|Netflix.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E3DF99-2467-4BAB-9D53-8271890531F9}|Netflix.csproj|c:\\.net app\\estudos\\netflix\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3E3DF99-2467-4BAB-9D53-8271890531F9}|Netflix.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E3DF99-2467-4BAB-9D53-8271890531F9}|Netflix.csproj|c:\\.net app\\estudos\\netflix\\view\\moviserie\\moviserie.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E3DF99-2467-4BAB-9D53-8271890531F9}|Netflix.csproj|solutionrelative:view\\moviserie\\moviserie.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E3DF99-2467-4BAB-9D53-8271890531F9}|Netflix.csproj|c:\\.net app\\estudos\\netflix\\view\\moviserie\\moviserie.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3E3DF99-2467-4BAB-9D53-8271890531F9}|Netflix.csproj|solutionrelative:view\\moviserie\\moviserie.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E3DF99-2467-4BAB-9D53-8271890531F9}|Netflix.csproj|c:\\.net app\\estudos\\netflix\\mvvm\\inotify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E3DF99-2467-4BAB-9D53-8271890531F9}|Netflix.csproj|solutionrelative:mvvm\\inotify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 273,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inotify.cs",
+              "DocumentMoniker": "C:\\.net app\\estudos\\Netflix\\MVVM\\Inotify.cs",
+              "RelativeDocumentMoniker": "MVVM\\Inotify.cs",
+              "ToolTip": "C:\\.net app\\estudos\\Netflix\\MVVM\\Inotify.cs",
+              "RelativeToolTip": "MVVM\\Inotify.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T20:37:42.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "moviserie.xaml.cs",
+              "DocumentMoniker": "C:\\.net app\\estudos\\Netflix\\View\\moviserie\\moviserie.xaml.cs",
+              "RelativeDocumentMoniker": "View\\moviserie\\moviserie.xaml.cs",
+              "ToolTip": "C:\\.net app\\estudos\\Netflix\\View\\moviserie\\moviserie.xaml.cs",
+              "RelativeToolTip": "View\\moviserie\\moviserie.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T01:19:13.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "moviserie.xaml",
+              "DocumentMoniker": "C:\\.net app\\estudos\\Netflix\\View\\moviserie\\moviserie.xaml",
+              "RelativeDocumentMoniker": "View\\moviserie\\moviserie.xaml",
+              "ToolTip": "C:\\.net app\\estudos\\Netflix\\View\\moviserie\\moviserie.xaml",
+              "RelativeToolTip": "View\\moviserie\\moviserie.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-31T01:18:29.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\.net app\\estudos\\Netflix\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\.net app\\estudos\\Netflix\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-31T21:05:51.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\.net app\\estudos\\Netflix\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\.net app\\estudos\\Netflix\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAADwv18AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T11:45:32.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

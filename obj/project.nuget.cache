@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8AsTAX5qboU=",
+  "success": true,
+  "projectFilePath": "C:\\.net app\\estudos\\Netflix\\Netflix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jvjoo\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.24\\microsoft.net.illink.tasks.8.0.24.nupkg.sha512",
+    "C:\\Users\\jvjoo\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.24\\microsoft.netcore.app.runtime.win-x64.8.0.24.nupkg.sha512",
+    "C:\\Users\\jvjoo\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.24\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.24.nupkg.sha512",
+    "C:\\Users\\jvjoo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.24\\microsoft.aspnetcore.app.runtime.win-x64.8.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

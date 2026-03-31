@@ -1,0 +1,2 @@
+C:\.net app\estudos\Netflix\bin\Release\net8.0-windows\win-x64\publish\Netflix.pdb
+C:\.net app\estudos\Netflix\bin\Release\net8.0-windows\win-x64\publish\Netflix.exe
